@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\niti_ma_i_qarti\sharp\LlogaritPagen\LlogaritPagen\bin\Debug\LlogaritPagen.exe.config
+C:\Users\Admin\Desktop\niti_ma_i_qarti\sharp\LlogaritPagen\LlogaritPagen\bin\Debug\LlogaritPagen.exe
+C:\Users\Admin\Desktop\niti_ma_i_qarti\sharp\LlogaritPagen\LlogaritPagen\bin\Debug\LlogaritPagen.pdb
+C:\Users\Admin\Desktop\niti_ma_i_qarti\sharp\LlogaritPagen\LlogaritPagen\obj\Debug\LlogaritPagen.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\niti_ma_i_qarti\sharp\LlogaritPagen\LlogaritPagen\obj\Debug\LlogaritPagen.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\niti_ma_i_qarti\sharp\LlogaritPagen\LlogaritPagen\obj\Debug\LlogaritPagen.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\niti_ma_i_qarti\sharp\LlogaritPagen\LlogaritPagen\obj\Debug\LlogaritPagen.exe
+C:\Users\Admin\Desktop\niti_ma_i_qarti\sharp\LlogaritPagen\LlogaritPagen\obj\Debug\LlogaritPagen.pdb
+C:\Users\Admin\Desktop\niti_ma_i_qarti\LlogaritPagen\LlogaritPagen\bin\Debug\LlogaritPagen.exe.config
+C:\Users\Admin\Desktop\niti_ma_i_qarti\LlogaritPagen\LlogaritPagen\bin\Debug\LlogaritPagen.exe
+C:\Users\Admin\Desktop\niti_ma_i_qarti\LlogaritPagen\LlogaritPagen\bin\Debug\LlogaritPagen.pdb
+C:\Users\Admin\Desktop\niti_ma_i_qarti\LlogaritPagen\LlogaritPagen\obj\Debug\LlogaritPagen.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\niti_ma_i_qarti\LlogaritPagen\LlogaritPagen\obj\Debug\LlogaritPagen.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\niti_ma_i_qarti\LlogaritPagen\LlogaritPagen\obj\Debug\LlogaritPagen.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\niti_ma_i_qarti\LlogaritPagen\LlogaritPagen\obj\Debug\LlogaritPagen.exe
+C:\Users\Admin\Desktop\niti_ma_i_qarti\LlogaritPagen\LlogaritPagen\obj\Debug\LlogaritPagen.pdb
